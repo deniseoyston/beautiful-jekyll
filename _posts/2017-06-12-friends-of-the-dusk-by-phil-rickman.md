@@ -8,8 +8,8 @@ tags:
   - Review
   - 'Rickman, Phil'
 ---
-##Book Review
-###Friends of The Dusk by Phil Rickman
+## Book Review
+### Friends of The Dusk by Phil Rickman
 Purchase Price: **£1.39 - 4th May 2016**
 
 Amazon Current Price: **Kindle £3.79 Paperback £8.99**
@@ -18,7 +18,7 @@ Amazon Current Price: **Kindle £3.79 Paperback £8.99**
 
 Other options are available.
 
-######Review of Kindle version
+###### Review of Kindle version
 
 This is the first book of the Merrily Watkins series that I have read.  I found it very easy to read and very enjoyable, though not as spooky as I imagined the books would be.
 
