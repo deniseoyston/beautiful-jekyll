@@ -33,5 +33,5 @@ Books in bold are in my collection
 1. **The Secrets of Pain** (2011) [Kindle Price](http://amzn.to/2rMw9jJ)
 1. **The Magus of Hay** (2013) [Kindle Price](http://amzn.to/2seM6ke)
 1. The House of Susan Lulham (2015) [Kindle Price](http://amzn.to/2t6bRPZ)
-1. **[Friends of the Dusk](2017-06-12-friends-of-the-dusk-by-phil-rickman.md)** (2015) [Kindle Price](http://amzn.to/2t6i7Hm)
+1. **[Friends of the Dusk](https://deniseoyston.github.io/2017-06-12-friends-of-the-dusk-by-phil-rickman/)** (2015) [Kindle Price](http://amzn.to/2t6i7Hm)
 1. All of a Winter's Night (2017) [Kindle Price](http://amzn.to/2rMoe5O)
