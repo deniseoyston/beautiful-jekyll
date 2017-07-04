@@ -6,7 +6,7 @@ subtitle: The published order of Merrily Watkins series by Phil Rickman
 date: '2017-06-17'
 tags:
   - Order
-  - Merrily Wakins
+  - Merrily Watkins
   - 'Rickman, Phil'
 ---
 #### Phil Rickman
