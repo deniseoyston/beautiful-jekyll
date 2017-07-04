@@ -5,6 +5,7 @@ title: The Dark Monk by Oliver Pötzsch
 subtitle: The Hangman's Daughter Series - Book Two by Oliver Pötzsch
 date: '2017-07-03'
 tags:
+  - Books
   - Review
   - 'Pötzsch, Oliver'
 ---
@@ -28,4 +29,3 @@ Of course, these books would be incomplete without depictions of medieval tortur
 The book ends with a depiction of how to Rfind places in the book today.  This could be useful for anyone intending to tour Bavaria.
 
 I am looking forward to reading the next episode of this great series.
-
