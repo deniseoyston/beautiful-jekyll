@@ -6,8 +6,8 @@ subtitle: The published order of The Hangman's Daughter series by Oliver Pötzsc
 date: '2017-07-04'
 image: 'https://images-na.ssl-images-amazon.com/images/I/61Yu2UAhjTL._UX250_.jpg'
 tags:
-  - books
-  - order
+  - Books
+  - Order
   - 'Pötzsch, Oliver'
 ---
 ### The Hangman's Daughter Series
