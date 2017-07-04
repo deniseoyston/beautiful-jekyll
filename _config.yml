@@ -24,6 +24,7 @@ description: A collection of reviews of books, of the order of books by characte
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Tags: "tags"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
