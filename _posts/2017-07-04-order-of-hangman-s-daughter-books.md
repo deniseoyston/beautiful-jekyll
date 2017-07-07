@@ -13,7 +13,7 @@ tags:
 ### The Hangman's Daughter Series
 
 1. **The Hangman's Daughter** (2010) [Kindle Price](http://amzn.to/2uemhP1)
-1. **The Dark Monk** (2012) [Kindle Price](http://amzn.to/2uzif2W)
+1. **The Dark Monk** (2012) [Kindle Price](http://amzn.to/2uzif2W) [*Review*](https://deniseoyston.github.io/2017-07-03-the-dark-monk-by-oliver-p-tzsch/)
 1. The Beggar King (2013) [Kindle Price](http://amzn.to/2tfFrUr)
 1. The Poisoned Pilgrim	(2013) [Kindle Price](http://amzn.to/2sBXu5w)
 1. The Werewolf of Bamberg (2015) [Kindle Price](http://amzn.to/2tBIl8c)
