@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Martin Cruz Smith - Order of Arkady Renko Novels
-subtitle: 'From Gorky Park, the full of the Arkady Renko Series'
+subtitle: 'From Gorky Park, the full list of the Arkady Renko Series'
 date: '2017-07-25'
 tags:
   - Book Order
