@@ -20,7 +20,7 @@ tags:
 1. **The Mystery of the Blue Train** (1928) [Kindle Price](http://amzn.to/2sn7q34)
 1. Peril at End House (1932) [Kindle Price](http://amzn.to/2qG8VrU)
 1. Lord Edgware Dies (1933) [Kindle Price](http://amzn.to/2qG2qoI)
-1. Murder on the Orient Express (1934) [Kindle Price](http://amzn.to/2rkxT1I)
+1. **Murder on the Orient Express** (1934) [Kindle Price](http://amzn.to/2rkxT1I)
 1. Three Act Tragedy (1935) [Kindle Price](http://amzn.to/2qGkOxR)
 1. Death in the Clouds (1935) [Kindle Price](http://amzn.to/2sn7fEK)
 1. The A.B.C. Murders (1936) [Kindle Price](http://amzn.to/2sekrfO)
@@ -52,4 +52,3 @@ tags:
 **Bold** is in my collection
 
 *Italic* is a collection of stories
-
