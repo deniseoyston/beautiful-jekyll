@@ -19,6 +19,6 @@ Amazon Current Price: **Kindle £6.99 Paperback £11.48** *Prices checked on 20t
 
 Other options are available.
 
-######Review of Kindle version
+###### Review of Kindle version
 
 Like other Antony Beevor books this is well-written and detailed, but what became increasingly apparent is that modern Spanish history and Spain are a huge hole in my knowledge.  I have never visited Spain and know very little about the country.  If like me you have little knowledge of anything Spanish, having a good map next to you, while reading this, may help.  I now realise that the Civil War was effectively a mini Second World War, with Germany and Russia playing a large part, with British disinterest in the background.  Like all wars this killed and devastated a lot of people, but really, I feel no better informed.
