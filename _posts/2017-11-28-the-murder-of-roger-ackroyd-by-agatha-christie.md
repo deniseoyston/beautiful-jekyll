@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The Murder of Roger Ackroyd by Agatha Christie
 date: '2017-11-28'
-tags: 'Book Review Christie, Agatha'
+tags: Review Christie Agatha
 ---
 ## Book Review
 ### The Murder of Roger Ackroyd by Agatha Christie
